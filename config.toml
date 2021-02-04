@@ -53,3 +53,7 @@ enableRobotsTXT = true
 # identifiler = "about"
 # name = "About"
 # url = "/posts/"
+
+[build]
+publish = “public”
+command = "hugo --theme=dimension --buildDrafts --gc --minify"
