@@ -1,4 +1,4 @@
-title = "出涸らし"
+title = "出涸らし2"
 baseURL = "https://vstheworld.netlify.app"
 languageCode = "ja"
 theme = "gohugo-theme-ananke"
@@ -24,7 +24,7 @@ enableRobotsTXT = true
 [params]
   favicon = ""
   site_logo = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = "デスクリプション"
   facebook = ""
   twitter = "https://twitter.com/__vstheworld"
   instagram = "https://instagram.com/__vstheworld"
