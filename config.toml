@@ -12,7 +12,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.ja]
-    title = "出涸らし2"
+    title = "出涸らし"
     weight = 1
     contentDir = "content"
 
