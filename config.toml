@@ -1,4 +1,4 @@
-title = "出涸らし2"
+title = "出涸らし"
 baseURL = "https://vstheworld.netlify.app"
 languageCode = "ja"
 theme = "gohugo-theme-ananke"
@@ -12,7 +12,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.ja]
-    title = "出涸らし"
+    title = "出涸らし2"
     weight = 1
     contentDir = "content"
 
@@ -55,5 +55,5 @@ enableRobotsTXT = true
 # url = "/posts/"
 
 [build]
-publish = “public”
+publish = "public"
 command = "hugo --theme=dimension --buildDrafts --gc --minify"
