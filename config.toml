@@ -1,18 +1,19 @@
 title = "出涸らし"
 baseURL = "https://vstheworld.netlify.app"
-languageCode = "ja"
+languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
 
-DefaultContentLanguage = "ja"
+DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
 [languages]
-  [languages.ja]
+  [languages.en]
     title = "出涸らし"
+
     weight = 1
     contentDir = "content"
 
@@ -24,7 +25,7 @@ enableRobotsTXT = true
 [params]
   favicon = ""
   site_logo = ""
-  description = "デスクリプション"
+  description = "茶・コーヒーなどを、何度も煎(せん)じ出したり煮出したりして、味・香りが薄くなっていること。また、そうなったもの。「出涸らしの茶」"
   facebook = ""
   twitter = "https://twitter.com/__vstheworld"
   instagram = "https://instagram.com/__vstheworld"
